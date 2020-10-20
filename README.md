@@ -1,5 +1,14 @@
 # cookiecutter-minimalistic-data-project 
 
+## Bruk 
+Installere filstrukturen ved å først installere _cookiecutter_ vha. `pip install cookiecutter`. Deretter bruker du dette templatet med:
+```
+cookiecutter https://github.com/henriasv/cookiecutter-minimalistic-data-project
+``` 
+
+
+## Forklaring 
+
 Denne filstrukturen er laget for å passe i HON2200 - Data-drevne prosjekter. Den er en nedstrippet variant av cookiecutter-data-science. Målet er å ha med litt mindre enn dere trenger, slik at det ikke ligger en masse forvirrende filer rundt og flyter. 
 
 Filstrukturen er som følger:
