@@ -1,0 +1,6 @@
+# install the local package (the code you have written in /src)
+-e .
+
+numpy 
+matplotlib
+jupyter-book 

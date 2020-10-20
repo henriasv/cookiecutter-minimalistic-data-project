@@ -1,0 +1,7 @@
+{
+    "project_name": "my_project",
+    "description" : "This is a data project",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "module_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}", 
+    "author_name": "Your name (or your organization/company/team)"
+}

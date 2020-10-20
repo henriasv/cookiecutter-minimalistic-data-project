@@ -1,0 +1,2 @@
+report: 
+	jupyter-book build . 

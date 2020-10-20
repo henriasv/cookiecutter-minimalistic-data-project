@@ -1,0 +1,8 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: intro
+- file: markdown 
+  sections:
+    - file: sections/beskrivelse_av_data
+    - file: sections/analyse
+    - file: sections/diskusjon_og_konklusjoner 
